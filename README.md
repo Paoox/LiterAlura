@@ -17,15 +17,15 @@ Podemos conultar lo siguiente:
 ****Requisitos**** 
 Para este proyecto se utilizaron las siguientes tecnologías:
 
-Java JDK: versión 17 o superior, disponible en Download the Latest Java LTS Free
-Maven: versión 4 o superior, para la gestión de dependencias y construcción del proyecto.
-Spring Boot: versión 3.3.0, configurado a través de Spring Initializr
-PostgreSQL: versión 14.12 o superior, como base de datos relacional.
-IDE: IntelliJ IDEA, disponible en JetBrains, para el desarrollo integrado del proyecto.
+*Java JDK: versión 17 o superior, disponible en Download the Latest Java LTS Free
+*Maven: versión 4 o superior, para la gestión de dependencias y construcción del proyecto.
+*Spring Boot: versión 3.3.0, configurado a través de Spring Initializr
+*PostgreSQL: versión 14.12 o superior, como base de datos relacional.
+*IDE: IntelliJ IDEA, disponible en JetBrains, para el desarrollo integrado del proyecto.
 
 *****Dependencias para agregar al crear el proyecto en Spring Initializr:  ***
 
-Spring Data JPA: para la integración con la capa de persistencia.
-Postgres Driver: para la conexión con la base de datos PostgreSQL.
-Jackson: para el manejo de JSON.
+*Spring Data JPA: para la integración con la capa de persistencia.
+*Postgres Driver: para la conexión con la base de datos PostgreSQL.
+*Jackson: para el manejo de JSON.
 **Creado por Paoxx Dev**
